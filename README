@@ -1,0 +1,9 @@
+/*
+    Copyright(c) 2011 Hrishikesh Paranjape
+    hrishikeshp19@gmail.com
+    http://www.github.com/hrishikeshparanjape
+*/
+
+Implementation of try-catch block in Scheme using advanced control structure called continuation. Continuations is a control structure which is not presnt in Java, C, and many other statically typed languages. The main idea in continuations is we can capture a point in a function where we can return later. This makes us possible to roll back to previous state of a function.
+
+Here is wiki page for continuation in case you are unaware about continuations http://en.wikipedia.org/wiki/Continuation
